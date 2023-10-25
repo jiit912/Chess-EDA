@@ -1,0 +1,2 @@
+game_id,game_order,event,site,date_played,round,white,black,result,white_elo,white_rating_diff,black_elo,black_rating_diff,white_title,black_title,winner,winner_elo,loser,loser_elo,winner_loser_elo_diff,eco,termination,time_control,utc_date,utc_time,variant,ply_count,date_created,file_name
+b2f39f70-5879-4fdc-b086-db5dee8587d4,1,Live Chess,Chess.com,2021.12.03,-,sgtwend,jiit9124,1-0,1266,,1240,,,,sgtwend,1266,jiit9124,1240,26,B20,sgtwend won by resignation,600,2021.12.03,15:23:48,,,2023-10-24T16:57:24+0000,2021-12.pgn

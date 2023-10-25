@@ -1,0 +1,2 @@
+game_id,game_order,event,site,date_played,round,white,black,result,white_elo,white_rating_diff,black_elo,black_rating_diff,white_title,black_title,winner,winner_elo,loser,loser_elo,winner_loser_elo_diff,eco,termination,time_control,utc_date,utc_time,variant,ply_count,date_created,file_name
+5eeb0ece-5d24-4398-8eaf-38fc0289efc8,1,Live Chess,Chess.com,2023.02.11,-,jiit912,Ariyamehr_0997,0-1,1351,,1402,,,,Ariyamehr_0997,1402,jiit912,1351,51,E00,Ariyamehr_0997 won by resignation,600,2023.02.11,21:40:09,,,2023-10-24T17:42:48+0000,jiit9122023-02.pgn
